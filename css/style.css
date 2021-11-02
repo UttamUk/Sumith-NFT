@@ -870,10 +870,10 @@ header .navbar .custom-navbar-nav .nav-item .nav-link:hover {
 
 @media (max-width: 575.98px) {
   .road-map .rd-area .rd-bx::before {
-    left: -25px;
+    left: -23px;
     top: 50%;
     height: 10px;
-    width: 48px;
+    width: 47px;
     z-index: 99;
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
@@ -894,7 +894,7 @@ header .navbar .custom-navbar-nav .nav-item .nav-link:hover {
 
 @media (max-width: 575.98px) {
   .road-map .rd-area .rd-bx {
-    width: 85%;
+    width: 100%;
     font-size: 13px;
     min-height: 130px;
     margin-left: 23px;
