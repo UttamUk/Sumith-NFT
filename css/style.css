@@ -870,7 +870,7 @@ header .navbar .custom-navbar-nav .nav-item .nav-link:hover {
 
 @media (max-width: 575.98px) {
   .road-map .rd-area .rd-bx::before {
-    left: -23px;
+    left: -25px;
     top: 50%;
     height: 10px;
     width: 47px;
